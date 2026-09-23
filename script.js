@@ -63,3 +63,13 @@ function calculate() {
         shouldResetDisplay = true;
     }
 }
+
+function profile() {
+    window.location.href = "profile.html";
+    
+}
+
+function help() {
+    window.location.href = "help.html";
+    
+}
